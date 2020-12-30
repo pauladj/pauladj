@@ -5,7 +5,7 @@
 
 - 💻 I'm a Full Stack Developer, currently working at <a href="https://keynetic.tech/">Keynetic.es</a>
 - ❤️ I'm passionate about **Software Engineering, Machine Learning/Deep Learning**, **Computer Vision** and **UI/UX**.
-- 🎓 BSc Degree in Informatics UPV/EHU and MSc Data Science
+- 🎓 BSc Degree in Informatics (UPV/EHU) and MSc Data Science
 - ✉️ You can reach me here: pauladejaime@gmail.com
 - 🌐 Spain
 - 🚩 See my portfolio: [pauladj.github.io/portfolio](https://pauladj.github.io/portfolio)
