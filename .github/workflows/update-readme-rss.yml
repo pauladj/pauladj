@@ -15,4 +15,4 @@ jobs:
           feed-url: https://pauladj.github.io/feed.xml
           readme-section: feed
           max: 5 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }})"
+          template: "- [{{ title }}]({{ link }})"
