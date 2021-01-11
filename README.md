@@ -18,6 +18,6 @@
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
-#### [Text Mining Analysis for Cyberpunk 2077 Reviews](https:&#x2F;&#x2F;pauladj.github.io&#x2F;blog&#x2F;nlp-cyberpunk&#x2F;)
-#### [Breaking Wikipedia’s captcha](https:&#x2F;&#x2F;pauladj.github.io&#x2F;blog&#x2F;breaking-wikipedia-captcha&#x2F;)
+- [Text Mining Analysis for Cyberpunk 2077 Reviews](https:&#x2F;&#x2F;pauladj.github.io&#x2F;blog&#x2F;nlp-cyberpunk&#x2F;)
+- [Breaking Wikipedia’s captcha](https:&#x2F;&#x2F;pauladj.github.io&#x2F;blog&#x2F;breaking-wikipedia-captcha&#x2F;)
 <!--END_SECTION:feed-->
