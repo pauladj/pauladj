@@ -3,7 +3,7 @@
 <p> <a href="https://www.linkedin.com/in/paula-de-jaime-157926166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://pauladj.github.io/portfolio" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?&style=for-the-badge&logo=ghost&logoColor=white" /></a></a> 
 </p>
 
-- 💻 I'm a Full Stack Developer, currently working at <a href="https://keynetic.tech/">Keynetic.es</a>
+- 💻 I'm a Software Engineer
 - ❤️ I'm passionate about **Software Engineering**, **Machine Learning/Deep Learning**, **Computer Vision** and **UI/UX**.
 - 🎓 BSc Degree in Informatics (UPV/EHU) and MSc Data Science
 - ✉️ You can reach me here: pauladejaime@gmail.com
